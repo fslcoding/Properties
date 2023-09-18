@@ -1,2 +1,3 @@
 # Properties
-A guide on properties
+
+## What is a property?
